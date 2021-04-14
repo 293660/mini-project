@@ -24,8 +24,8 @@
     * Easy to book tickets and save time.
     * Fully customization.
 
-### Explanation:
-# Airline ticket booking system has some inbuilt features like
+## Explanation:
+### Airline ticket booking system has some inbuilt features like
 * Booking ticket
 * View all ticket
 * Find ticket
