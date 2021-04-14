@@ -25,13 +25,13 @@
     * Fully customization.
 
 ### Explanation:
-*  Airline ticket booking system has some inbuilt features like
-  
-         - Booking ticket
-         - View all ticket
-         - Find ticket
-         - Checked booked ticket
-         - Delete record
-         - Easily Exit
+# Airline ticket booking system has some inbuilt features like
+* Booking ticket
+* View all ticket
+* Find ticket
+* Checked booked ticket
+* Delete record
+* Easily Exit
 
+  
 ## Swot analysis
