@@ -18,10 +18,10 @@
    * Exit
 
 ### Benfits
-    * Now a days most of the people are busy with daily schedule and they dont want to get behind, so through this programming concept they can book tickets fastly.
-    * The system is reliable and error free.
-    * Easy to book tickets and save time.
-    * Fully customization.
+* Now a days most of the people are busy with daily schedule and they dont want to get behind, so through this programming concept they can book tickets fastly.
+* The system is reliable and error free.
+* Easy to book tickets and save time.
+* Fully customization.
 
 ## Explanation:
 ### Airline ticket booking system has some inbuilt features like
