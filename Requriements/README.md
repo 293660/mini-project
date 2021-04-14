@@ -34,3 +34,4 @@
 
   
 ## Swot analysis
+![Descripton](https://github.com/293660/mini-project/blob/main/Requriements/swot.png)
