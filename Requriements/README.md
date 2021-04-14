@@ -56,3 +56,19 @@
 * Taxes imposed by the government.
 * High competitive industry because of large number of players.
 * Improvements in competitors.
+
+## 4W's and 1'H
+### Who:
+* Depending on the booking  source,it's created either by an ailines CRS or GDS.The PNR is generated based on a passenger's personal information.
+
+### What:
+* The flight booking system is being used not only to make flight reservations, but it's also being used to assit with different airline management tasks and to meet customer's   needs from the intial booking.
+
+### When:
+* In 1946, American Airlines began experimenting with the first automated booking system.
+
+### Where:
+* The customer can book a flight ticket from anywhere.
+
+### How:
+* By customer entering onward destinations, the date of journey, number of passengers and preferred class of travel. 
