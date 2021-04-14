@@ -55,3 +55,4 @@
 ### Threats
 * Taxes imposed by the government.
 * High competitive industry because of large number of players.
+* Improvements in competitors.
