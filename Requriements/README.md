@@ -7,10 +7,9 @@
 
 ## Research
 ### Description
-
-     * The system displays all the flight's schedule such as flight no,name,price,date of journey etc...
-     * The user can able to book a ticket and can also find the ticket by entering ticket code.
-     * The user can able to delete the record and can view all the records.
+* The system displays all the flight's schedule such as flight no,name,price,date of journey etc...
+* The user can able to book a ticket and can also find the ticket by entering ticket code.
+* The user can able to delete the record and can view all the records.
 ### Airline ticket booking system Features 
    * Free Account
    * Full detailed Flights
