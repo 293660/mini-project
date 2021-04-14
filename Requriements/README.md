@@ -34,6 +34,24 @@
 
   
 ## Swot analysis
+### Strengths
+* A large surface area available to the airport may allow long-term expansion (flexibility).
+* User -friendly website.
+* Component customer service.
+* Strong corporate social resposibility.
 
+### Weakness
+* Share same customer base with other low cost airlines.
+* Multiple stops to destination.
+* Lost touch with travel agents.
+* Lack of exposure toward online booking agents.
 
+### Oppurtunities
+* Percentage of people travelling in airlines is increasing gradually.
+* Increase in per captia income will generate more passenger to airlines.
+* Large untapped Indian market.
+* FDI's in Indian airline industry.
 
+### Threats
+* Taxes imposed by the government.
+* High competitive industry because of large number of players.
